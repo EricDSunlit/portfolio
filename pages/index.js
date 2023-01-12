@@ -58,10 +58,10 @@ export default function Home() {
             My profile
           </Heading>
           <Paragraph>
-            Web / Mobile developer and system engineering term student with the
-            aim of using their academic and personal skills to make
-            contributions inside and outside the work environment, and get the
-            appropriate knowledge to make quality applications.
+            Web / Mobile developer and system engineer with the aim of using
+            their academic and personal skills to make contributions inside and
+            outside the work environment, and get the appropriate knowledge to
+            make quality applications.
           </Paragraph>
           <Box align="center" my={4}>
             <NextLink href="/projects">
